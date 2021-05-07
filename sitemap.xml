@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://192.168.1.7:4000/bof</loc>
+<loc>https://1nfosecarc.github.io//https://1nfosecarc.github.io/bof</loc>
 </url>
 <url>
-<loc>http://192.168.1.7:4000/</loc>
+<loc>https://1nfosecarc.github.io//https://1nfosecarc.github.io/</loc>
 </url>
 <url>
-<loc>http://192.168.1.7:4000/other</loc>
+<loc>https://1nfosecarc.github.io//https://1nfosecarc.github.io/other</loc>
 </url>
 <url>
-<loc>http://192.168.1.7:4000/pwn</loc>
+<loc>https://1nfosecarc.github.io//https://1nfosecarc.github.io/pwn</loc>
 </url>
 <url>
-<loc>http://192.168.1.7:4000/tags</loc>
+<loc>https://1nfosecarc.github.io//https://1nfosecarc.github.io/tags</loc>
 </url>
 <url>
-<loc>http://192.168.1.7:4000/web</loc>
+<loc>https://1nfosecarc.github.io//https://1nfosecarc.github.io/web</loc>
 </url>
 <url>
-<loc>http://192.168.1.7:4000/whoami</loc>
+<loc>https://1nfosecarc.github.io//https://1nfosecarc.github.io/whoami</loc>
 </url>
 </urlset>
