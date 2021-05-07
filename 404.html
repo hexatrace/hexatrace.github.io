@@ -83,7 +83,7 @@
     <div class="col col-12" style="text-align: center">
       <h2>404</h2>
       <p>The requested page could not be found.</p>
-      <p><a href="//">Back to the home page</a></p>
+      <p><a href="/">Back to the home page</a></p>
     </div>
   </div>
 </div>
@@ -149,6 +149,7 @@
     <script src="https://1nfosecarc.github.io/assets/js/jquery.waitforimages.min.js"></script>
     <script src="https://1nfosecarc.github.io/assets/js/jquery.fitvids.js"></script>
     <script src="https://1nfosecarc.github.io/assets/js/common.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-196555764-1"></script>
 
     <script>
 
@@ -174,7 +175,7 @@
                 noResultsText: '<div class="col col-12" style="text-align: center">' + 
                     '<div class="widget widget-recent"><h3 class="widget-title">No results found !</h3>' +
                         '<div class="recent-posts justify-content-center">' + 
-                        '<div class="recent-content"><p><a href="//">Back to the home page</a></p></div>' + 
+                        '<div class="recent-content"><p><a href="/">Back to the home page</a></p></div>' + 
                         '</div></div></div>'
                 
             });
@@ -185,6 +186,13 @@
                     document.getElementById("result-content-outer").style.visibility = "collapse";
                 }
             });
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-196555764-1');
+
         </script>
 
     
