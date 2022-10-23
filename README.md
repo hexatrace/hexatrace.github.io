@@ -1,2 +1,2 @@
 # hexatrace.github.io
-Hexatrace Official WebSite
+Hexatrace Official Website
